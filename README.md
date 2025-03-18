@@ -1,4 +1,4 @@
-## 👋 Hey there, This is Shradha Kekare! 🚀
+## 👋 Hey there techies🤖!!(or may be non-techies 🎭) This is Shradha S. Kekare! 🚀
 
 Welcome to my GitHub profile! Buckle up guys because we're about to dive into the wild world of tech, code, and innovation! 🔥
 
