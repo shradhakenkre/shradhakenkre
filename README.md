@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Buckle up guys because we're about to dive into th
 
 ### 🚀 About Me
 - 🎓 **Education**: Currently in my 6th Sem of CS Engineering at KLE Technological University, Hubballi
-- 💻 **Tech Stack**: C, Java, Python (basics), SQL, Machine Learning
+- 💻 **Tech Stack**: C, C++, Java, Python (basics), SQL, Machine Learning
 - 🎯 **Passionate About**: Building cool tech, breaking stuff (and fixing it!), and making the world a little more awesome with code.
 
 ### 🌟 My Beliefs & Goals
