@@ -68,7 +68,7 @@ I enjoy building real-world tech projects, experimenting with code, and solving 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
----
+
 
 ## 🕓 Version Control
 <p>
