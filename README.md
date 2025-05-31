@@ -1,18 +1,105 @@
-## 👋 Hey there techies🤖!!(or may be non-techies 🎭) This is Shradha S. Kekare! 🚀
+# 👋 Hey there techies (and non-techies)!  
+### I'm **Shradha S. Kekare** 🚀  
+Welcome to my GitHub! Buckle up—we’re diving into the world of **code, creativity**, and **tech innovation**! 💻✨
 
-Welcome to my GitHub profile! Buckle up guys because we're about to dive into the wild world of tech, code, and innovation! 🔥
 
-### 🚀 About Me
-- 🎓 **Education**: Currently in my 6th Sem of CS Engineering at KLE Technological University, Hubballi
-- 💻 **Tech Stack**: C, C++, Java, Python (basics), SQL, Machine Learning
-- 🎯 **Passionate About**: Building cool tech, breaking stuff (and fixing it!), and making the world a little more awesome with code.
 
-### 🌟 My Beliefs & Goals
-- ✨ **Beliefs**: I believe in continuous learning, crazy ideas, and pushing tech beyond limits to solve real-world problems in the smartest and most efficient way possible! 🚀💡
-- 🎯 **Goals**: To master the art of coding, create jaw-dropping projects, and leave a digital footprint that actually matters!
+## 🚀 About Me
 
-### 📫 Connect with Me
-- 📧 Email: kenkreshraddha92@gmail.com
-- 💼 LinkedIn: [Shradha Kekare](https://www.linkedin.com/in/shradha-kekare-b33862298)
+🎓 **Education**:  
+Currently pursuing 6th Semester of B.E. in Computer Science Engineering at **KLE Technological University, Hubballi**
 
-💡 *Let's code, create, and make some magic happen!* 🚀🔥
+💡 **What I Do**:  
+I enjoy building real-world tech projects, experimenting with code, and solving problems in the most creative way possible.
+
+
+
+## 💻 Tech Stack
+
+
+
+
+
+
+
+## 💾 Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+
+
+## 🧑‍💻 Developer Platforms
+<p>
+  <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+
+## 💻 IDEs & Editors
+<p>
+  <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code::Blocks-006CB6?style=for-the-badge&logo=code-blocks&logoColor=white"/>
+</p>
+
+
+
+## 📋 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+ 
+</p>
+
+
+
+## 🎛️ Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
+
+---
+
+## 🕓 Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+
+
+
+
+
+
+
+## 🌟 Beliefs & Goals
+
+- 💡 **Beliefs**: Continuous learning, bold experimentation, and using technology to solve meaningful real-world problems.
+- 🎯 **Goals**: Master the art of development, build impactful projects, and leave a positive digital footprint.
+
+---
+
+
+
+## 📫 Get in Touch
+
+<a href="kenkreshraddha92@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+---
+
+### 🔥 *Let’s code, collaborate, and create some magic together!* 🚀
