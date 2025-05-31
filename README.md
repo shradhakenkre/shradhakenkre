@@ -39,7 +39,7 @@ I enjoy building real-world tech projects, experimenting with code, and solving 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
+
 
 
 ## 💻 IDEs & Editors
@@ -74,6 +74,7 @@ I enjoy building real-world tech projects, experimenting with code, and solving 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  
 </p>
 
 
@@ -88,18 +89,22 @@ I enjoy building real-world tech projects, experimenting with code, and solving 
 - 💡 **Beliefs**: Continuous learning, bold experimentation, and using technology to solve meaningful real-world problems.
 - 🎯 **Goals**: Master the art of development, build impactful projects, and leave a positive digital footprint.
 
----
+
 
 
 
 ## 📫 Get in Touch
 
-<a href="kenkreshraddha92@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  <a href="kenkreshraddha92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shradha-kekare-b33862298" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
----
 
----
+
 
 ### 🔥 *Let’s code, collaborate, and create some magic together!* 🚀
