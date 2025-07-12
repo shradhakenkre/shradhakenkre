@@ -1,4 +1,4 @@
-# 👋 Hey there techies (and non-techies)!  
+# 👋 Hey there techies (and non-techies toooo)!  
 ### I'm **Shradha S. Kekare** 
 Welcome to my GitHub! Buckle up—we’re diving into the world of **code, creativity**, and **tech innovation**! 💻✨
 
